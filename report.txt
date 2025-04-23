@@ -1,0 +1,1 @@
+Things I learned was how to properly simulate. I changed the number checker and customers and played with it a bit. It heavily depended on the number checkers to be low and customers to be high for it to work properly. I also recieved some help from my classmates but overall I understand how the simulation works. 
